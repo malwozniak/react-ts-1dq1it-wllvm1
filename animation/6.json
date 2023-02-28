@@ -1,0 +1,25 @@
+{
+  "time": 10,
+  "is_default": true,
+  "moves": [],
+  "name": "animation CSS 10s",
+  "order": 6,
+  "species": {
+    "id": 6,
+    "name": "animation CSS 10s",
+    "url": "https://raw.githubusercontent.com/malwozniak/react-ts-1dq1it/main/type/1.json"
+  },
+  "sprites": {
+    "animation_base": "https://raw.githubusercontent.com/malwozniak/malwozniak.github.io/804478f6d6b2b2813dfdfd38f64e6207119456e2/images/soon.png"
+  },
+  "stats": [],
+  "types": [
+    {
+      "slot": 1,
+      "type": {
+        "name": "Isometric Animation",
+        "url": "https://raw.githubusercontent.com/malwozniak/react-ts-1dq1it/main/type/1.json"
+      }
+    }
+  ]
+}
